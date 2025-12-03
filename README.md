@@ -1,4 +1,4 @@
-App Meus Livros (Mobile)
+App Livros Pessoais (Mobile)
 ===========================
 
 Aplicativo desenvolvido em React Native (Expo) para gerenciamento de leitura pessoal. O app consome a API REST da Livraria para persistir os dados.
